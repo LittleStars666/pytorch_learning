@@ -6,7 +6,7 @@
     - ◎pytorch 0.4.1
     - ◎python 3.6
 ### ♋内容介绍：
-    ۞pytorch的基石--tensor张量 <a href="https://github.com/LittleStars666/pytorch_learning/blob/master/github/tensor.ipynb">[咻一咻]</a>
+   <div> ۞pytorch的基石--tensor张量 <a href="https://github.com/LittleStars666/pytorch_learning/blob/master/github/tensor.ipynb">[咻一咻]</a></div>
     ۞pytorch的autograd及Variable | [](https://github.com/LittleStars666/pytorch_learning/blob/master/github/variable.ipynb) 
     ۞前馈神经网络例子 [咻一咻](https://github.com/LittleStars666/pytorch_learning/blob/master/github/fnn.ipynb)
 
