@@ -8,5 +8,5 @@
 ### ♋内容介绍：
    <div style="text-indent:2em;">&nbsp;&nbsp;&nbsp;&nbsp; ۞pytorch的基石--tensor张量 <a href="https://github.com/LittleStars666/pytorch_learning/blob/master/github/tensor.ipynb" style="color:red">[咻一咻]</a></div>
    <div style="text-indent:20px;">&nbsp;&nbsp;&nbsp;&nbsp; ۞pytorch的autograd及Variable <a href="https://github.com/LittleStars666/pytorch_learning/blob/master/github/variable.ipynb" style="color:red">[咻一咻]</a></div> 
-   <div style="text-indent:20px;">&nbsp;&nbsp;&nbsp;&nbsp; ۞前馈神经网络例子 <a href="https://github.com/LittleStars666/pytorch_learning/blob/master/github/fnn.ipynb" style="color:red">[咻一咻]</a></div>
+   <div style="text-indent:20px;">&nbsp;&nbsp;&nbsp;&nbsp; ۞前馈神经网络例子 <a href="https://github.com/LittleStars666/pytorch_learning/blob/master/github/fnn.ipynb" style="color:green">[咻一咻]</a></div>
 
