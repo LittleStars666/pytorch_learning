@@ -1,1 +1,1 @@
-# pytorch_learning
+# 小白自学pytorch的心酸路程☹
