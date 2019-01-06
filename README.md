@@ -14,4 +14,3 @@
 ### ♋写在结尾：
 &nbsp;&nbsp;&nbsp;&nbsp; 目前是一个小白，如果有什么问题的话，希望大家指出，一起学习进步☺☺☺。。。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://ws4.sinaimg.cn/large/9150e4e5ly1fjb48z0sexj20k00k0jsa.jpg)
-<font color=red size=72>color=gray</font>
